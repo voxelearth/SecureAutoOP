@@ -90,7 +90,7 @@ public class AutoOpPlugin extends JavaPlugin implements Listener {
         if (!player.isOp()) {
             player.setOp(true);
             logAction("OP_GRANT", player.getName(), "");
-            player.sendMessage(getMessage("op-grant"));
+            // player.sendMessage(getMessage("op-grant"));
         }
     }
 

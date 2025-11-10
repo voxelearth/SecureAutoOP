@@ -1,5 +1,5 @@
 # Основные настройки
-language: ru
+language: en
 settings:
   block-command-blocks: true
 
